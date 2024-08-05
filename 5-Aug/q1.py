@@ -1,0 +1,1 @@
+print("Hello World!") # prints function argument
